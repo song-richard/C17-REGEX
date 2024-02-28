@@ -4,7 +4,7 @@ Introductory paragraph (replace this with your text)
 
 ## Summary
 
-Briefly summarize the regex you will be describing and what you will explain. Include a code snippet of the regex. Replace this text with your summary.
+Regular expressions (regex) are tools for finding patterns in text. While they might seem complex, breaking them down makes them easier to grasp. This guide will walk you through different parts of regex in simple terms.
 
 ## Table of Contents
 
