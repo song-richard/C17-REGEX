@@ -23,8 +23,10 @@ Regular expressions (regex) are tools for finding patterns in text. While they m
 ## Regex Components
 
 ### Anchors
+Anchors like ^ and $ specify where a match should start or end.
 
 ### Quantifiers
+Quantifiers like *, +, and ? define how many times a character or group should appear.
 
 ### OR Operator
 
