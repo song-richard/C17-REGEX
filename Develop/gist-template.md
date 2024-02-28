@@ -29,10 +29,13 @@ Anchors like ^ and $ specify where a match should start or end.
 Quantifiers like *, +, and ? define how many times a character or group should appear.
 
 ### OR Operator
+The | symbol allows you to match one pattern or another.
 
 ### Character Classes
+Character classes like [] match any character from a specified set.
 
 ### Flags
+Flags like "i" for case-insensitive matching modify regex behavior.
 
 ### Grouping and Capturing
 
