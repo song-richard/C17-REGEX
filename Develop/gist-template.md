@@ -1,6 +1,4 @@
-# Title (replace with your title)
-
-Introductory paragraph (replace this with your text)
+# Understanding Regular Expressions: A Beginner's Guide
 
 ## Summary
 
@@ -38,17 +36,22 @@ Character classes like [] match any character from a specified set.
 Flags like "i" for case-insensitive matching modify regex behavior.
 
 ### Grouping and Capturing
+Parentheses () group parts of a pattern for reference later.
 
 ### Bracket Expressions
+Bracket expressions like [] match characters within a specified range.
 
 ### Greedy and Lazy Match
+Regex quantifiers are greedy by default but can be made lazy with ?.
 
 ### Boundaries
+Boundaries like \b match specific points in the text.
 
 ### Back-references
+Back-references like \1 refer back to captured groups.
 
 ### Look-ahead and Look-behind
+Look-ahead (?=) and look-behind (?<=) assertions check for patterns before or after the main match.
 
 ## Author
-
-A short section about the author with a link to the author's GitHub profile (replace with your information and a link to your profile)
+This guide was authored by [Richard Song](https://github.com/song-richard)
